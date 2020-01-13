@@ -18,9 +18,6 @@ import org.springframework.context.annotation.Configuration;
  *
  */
 @SpringBootApplication
-@Configuration
-@EnableAutoConfiguration
-@ComponentScan
 public class PersonApplication {
 
 	public static void main(String[] args) {
