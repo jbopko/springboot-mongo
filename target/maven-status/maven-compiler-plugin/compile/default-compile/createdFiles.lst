@@ -1,0 +1,7 @@
+com/prss/ms/test/MongoDbRestApplicationTest.class
+com/prss/ms/data/mongo/person/Person.class
+com/prss/ms/data/mongo/person/PersonRepository.class
+com/prss/ms/data/mongo/greeting/GreetingApplication.class
+com/prss/ms/data/mongo/greeting/Greeting.class
+com/prss/ms/data/mongo/person/PersonApplication.class
+com/prss/ms/data/mongo/greeting/GreetingController.class

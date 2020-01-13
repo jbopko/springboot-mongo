@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/java/Example.java",
+			"settings":
+			{
+				"buffer_size": 388,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"echo \"msg\"",
+			"var x = 5;",
+			"var x = 5; echo x;"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dev1/dev/sbTest",
+		"/Users/dev1/dev/sbTest/src",
+		"/Users/dev1/dev/sbTest/src/main",
+		"/Users/dev1/dev/sbTest/src/main/java"
+	],
+	"file_history":
+	[
+		"/Users/dev1/dev/sbTest/pom.xml",
+		"/Users/dev1/dev/sbTest/src/main/java/Example.java",
+		"/Users/dev1/eclipse-workspace/tryagain/src/main/java/Example.java",
+		"/usr/local/etc/httpd/extra/httpd-ssl.conf",
+		"/usr/local/etc/httpd/httpd.conf",
+		"/usr/local/var/log/httpd/error.log",
+		"/usr/local/var/log/httpd/error.vh.log",
+		"/usr/local/etc/httpd/extra/httpd-autoindex.conf",
+		"/usr/local/etc/openssl@1.1/cert.pem",
+		"/usr/local/etc/openssl@1.1/ct_log_list.cnf",
+		"/usr/local/var/www/search_proxy.php",
+		"/usr/local/var/www/index.html",
+		"/Users/dev1/Documents/test.txt",
+		"/usr/local/etc/httpd/original/httpd.conf",
+		"/usr/local/etc/php/7.4/php.ini",
+		"/Users/dev1/Documents/Dev/Apache/phpinfo.php",
+		"/usr/local/etc/httpd/mime.types",
+		"/usr/local/etc/httpd/magic",
+		"/Users/dev1/Documents/Chrome Passwords.csv"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/java/Example.java",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tutorial.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
